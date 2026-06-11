@@ -5,3 +5,4 @@
 .codex/
 .hermes/
 .env.local
+.DS_Store
