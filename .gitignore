@@ -2,3 +2,6 @@
 .env
 .env.production
 .env*.local
+.codex/
+.hermes/
+.env.local
