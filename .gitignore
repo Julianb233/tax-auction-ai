@@ -6,3 +6,4 @@
 .hermes/
 .env.local
 .DS_Store
+AGENTS.md
